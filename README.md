@@ -24,7 +24,7 @@
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
-##
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroRigoni/PedroRigoni/output/github-contribution-grid-snake-dark.svg">
