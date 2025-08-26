@@ -5,7 +5,8 @@
 - 🔭 Atualmente estou em busca de um estagio.
 - 🌱 Estudando React e typescript
 - 📫 Contate-me em: pedrohenriquerigonilima@gmail.com
--->
+
+##
 
   <div>
   <a href="https://github.com/PedroRigoni">
@@ -20,11 +21,15 @@
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  ##
  
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 
